@@ -1,1 +1,2 @@
+/(vendor|system/vendor)/bin/hw/android\.hardware\.camera\.provider@2\.4-service-winglm u:object_r:hal_camera_default_exec:s0
 /(vendor|system/vendor)/bin/hw/android\.hardware\.vibrator-service\.winglm u:object_r:hal_vibrator_default_exec:s0
